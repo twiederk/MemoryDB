@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.d20charactersheet</groupId>
   <artifactId>memorydb</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>MemoryDB</name>
   <description>Simple in memory database.</description>
